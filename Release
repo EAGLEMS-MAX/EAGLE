@@ -1,8 +1,8 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
+Origin:+EAGLE +MS
+Label: EAGLE MS
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: IOS
+Architectures: IPHONEOS-arm
 Components: main
 Description: 
