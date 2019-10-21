@@ -1,0 +1,8 @@
+Origin: EAGLE MS
+Label: EAGLE MS
+Suite: stable
+Version: 1.0
+Codename: IOS
+Architectures: IPHONEOS-arm
+Components: main
+Description: Software and networks
